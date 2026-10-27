@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MADlab7-studentRegistrationForm</string>
+    <string name="enter_student_details">Enter Student Details</string>
+    <string name="enter_your_full_name">Enter your full name:</string>
+    <string name="ex_jane_doe">Ex: Jane Doe</string>
+    <string name="enter_your_usn">Enter your USN</string>
+    <string name="select_your_date_of_birth">Select your Date of Birth:</string>
+    <string name="in_the_range_of_17_30">in the range of 17 -30</string>
+    <string name="i_agree_to_the_terms_and_conditions">I agree to the terms and conditions</string>
+    <string name="i_confirm_my_student_details">I confirm my student details</string>
+    <string name="submit">Submit</string>
+    <string name="welcome">Welcome!</string>
+</resources>
